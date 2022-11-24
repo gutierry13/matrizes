@@ -8,3 +8,5 @@ Objetivos da atividade:
 <img alt='Image' title='Image' src='./Image1.png'>
 <img alt='Image' title='Image' src='./Image2.png'>
 </div>
+<h2>Resultado:</h2>
+<img alt='Image' title='Image' src='./resultadoMatriz.png'>
